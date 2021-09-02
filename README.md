@@ -1,0 +1,2 @@
+# Chi_Squred_Hypothisis_Test
+Chi_Squred_Hypothisis_Test
